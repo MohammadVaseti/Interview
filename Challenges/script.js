@@ -20,3 +20,14 @@ for (let a = 0; a <= arr.length - 1; a++) {
 console.log(num);
 
 // palindrome
+let word = "asdac";
+let res = "";
+for (let a = 0; a <= word.length - 1; a++) {
+  if (word[0] == word[word.length - 1]) {
+    res = "palindrome";
+  } else {
+    res = "not palindrome";
+  }
+}
+console.log(res);
+//////////////////////////////////////
