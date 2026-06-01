@@ -1,3 +1,8 @@
 1.diffrence between typescript and javascript ?
 2.what are benefits of typescript ?
-3.
+3.what is the most important thing about ts.config ?
+4.basic types
+5.diffrence between any , unknown ?
+6.diffrence between void , never ?
+7.what is Type Inference و Type Annotation ?
+8.what is diffrence between Union و Intersection ?
