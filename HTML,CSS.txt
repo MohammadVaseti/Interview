@@ -12,4 +12,3 @@
 12.explain positioning in css
 13.diffrence between grid and flexbox
 14.display:none , visiblity:hidden
-15.
