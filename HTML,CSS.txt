@@ -1,3 +1,15 @@
 1.Diffrence between inline , block elements ?
 2.name some semantic elements
-3.
+3.usage of div and Diffrence with semantic tags
+4.diffrenc between class , id
+5.what are meta tags
+6.diffrence between asyn defer and script
+7.diffrence between loca and session storage
+8.specificity in css
+9.box model
+10.units in css
+11.diffrence between rem em
+12.explain positioning in css
+13.diffrence between grid and flexbox
+14.display:none , visiblity:hidden
+15.
