@@ -1,2 +1,5 @@
 1. Variables let,var,const
 2. data types
+3. regular function function expression arrow ?
+4.diffrence between regular and arrow
+5
