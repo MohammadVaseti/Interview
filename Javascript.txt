@@ -6,3 +6,5 @@
 6. high order function
 7.pure function
 8.Scope & Execution Context
+9.call stack
+10.Hoisting
