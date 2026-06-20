@@ -2,4 +2,7 @@
 2. data types
 3. regular function function expression arrow ?
 4.diffrence between regular and arrow
-5
+5.callback function
+6. high order function
+7.pure function
+8.Scope & Execution Context
