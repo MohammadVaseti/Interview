@@ -34,11 +34,4 @@ console.log(res);
 
 // find unique nums in array
 
-const arr2 = [1, 4, 4, 2, 56, 87, 98, 98, 198, 75];
-let uniqueArr = [];
-for (let x = 0; x < arr2.length; x++) {
-  if (arr2[x] !== arr2[x + 1]) {
-    uniqueArr.push(arr2[x]);
-  }
-}
-console.log(uniqueArr);
+const arr2 = [1, 3, 2, 1, 4, 2];
