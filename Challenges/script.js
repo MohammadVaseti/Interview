@@ -31,3 +31,7 @@ for (let a = 0; a <= word.length - 1; a++) {
 }
 console.log(res);
 //////////////////////////////////////
+
+// find unique nums in array
+
+const arr = [1, 4, 2, 56, 87, 98, 198, 75];
