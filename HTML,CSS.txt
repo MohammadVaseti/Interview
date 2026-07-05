@@ -1,10 +1,10 @@
-1.what is basic structure of HTML ?
-1.Diffrence between inline , block elements ?
-2.name some semantic elements
-3.usage of div and Diffrence with semantic tags
-4.diffrenc between class , id
-5.what are meta tags ?
-6.diffrence between async defer and script
+1.what is the basic structure of HTML ?
+2.Diffrence between inline , block elements ?
+3.name some semantic elements
+4.usage of div and Diffrence with semantic tags
+5.Diffrence between class , id
+6.what are meta tags ?
+7.diffrence between async defer and script
 7.diffrence between local and session storage
 8.specificity in css
 9.box model
