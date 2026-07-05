@@ -5,11 +5,11 @@
 5.Diffrence between class , id
 6.what are meta tags ?
 7.diffrence between async defer and script
-7.diffrence between local and session storage
-8.specificity in css
-9.box model
-10.units in css
-11.diffrence between rem,em
-12.explain positioning in css
-13.diffrence between grid and flexbox
-14.display:none , visiblity:hidden
+8.diffrence between local and session storage
+9.specificity in css
+10.box model
+11.units in css
+12.diffrence between rem,em
+13.explain positioning in css
+14.diffrence between grid and flexbox
+15.display:none , visiblity:hidden
