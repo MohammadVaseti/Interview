@@ -10,34 +10,38 @@ Keyboard Navigation
 Screen Reader
 display: none و visibility: hidden
 
- ۳. Form
+۳. Forms
 انواع input
 Validation
 required
 pattern
 autocomplete
 novalidate
-⭐⭐⭐⭐☆ ۴. DOM و Browser Rendering
+
+۴. DOM و Browser Rendering
 HTML Parser
 ساخت DOM
 Render Tree
 Reflow و Repaint
-⭐⭐⭐⭐☆ ۵. Script Loading
+
+۵. Script Loading
 async
 defer
-تفاوت با script معمولی
-⭐⭐⭐⭐☆ ۶. Meta Tags
+script
+
+۶. Meta Tags
 viewport
 charset
 description
 robots
-Open Graph
-⭐⭐⭐☆☆ ۷. SEO Basics
+
+۷. SEO Basics
 Headingها
 Semantic HTML
 Image Alt
 Metaها
-⭐⭐⭐☆☆ ۸. Lazy Loading
+
+۸. Lazy Loading
 loading="lazy"
 تصویر و iframe
 CSS
