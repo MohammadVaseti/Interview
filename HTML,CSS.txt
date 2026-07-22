@@ -1,3 +1,158 @@
+⭐⭐⭐⭐⭐ ۱. Semantic HTML
+تگ‌های معنایی
+تفاوت section، article، aside، nav، main
+انتخاب تگ مناسب برای هر محتوا
+⭐⭐⭐⭐⭐ ۲. Accessibility (a11y)
+aria-*
+label و for
+Keyboard Navigation
+Screen Reader
+تفاوت display: none و visibility: hidden
+⭐⭐⭐⭐⭐ ۳. Form
+انواع input
+Validation
+required
+pattern
+autocomplete
+novalidate
+⭐⭐⭐⭐☆ ۴. DOM و Browser Rendering
+HTML Parser
+ساخت DOM
+Render Tree
+Reflow و Repaint
+⭐⭐⭐⭐☆ ۵. Script Loading
+async
+defer
+تفاوت با script معمولی
+⭐⭐⭐⭐☆ ۶. Meta Tags
+viewport
+charset
+description
+robots
+Open Graph
+⭐⭐⭐☆☆ ۷. SEO Basics
+Headingها
+Semantic HTML
+Image Alt
+Metaها
+⭐⭐⭐☆☆ ۸. Lazy Loading
+loading="lazy"
+تصویر و iframe
+CSS
+⭐⭐⭐⭐⭐ ۱. Box Model
+content-box
+border-box
+margin
+padding
+border
+⭐⭐⭐⭐⭐ ۲. Flexbox
+تمام propertyها
+flex-grow
+flex-shrink
+flex-basis
+سناریوهای واقعی
+⭐⭐⭐⭐⭐ ۳. Grid
+Grid Container
+Grid Item
+fr
+minmax
+auto-fit
+auto-fill
+⭐⭐⭐⭐⭐ ۴. Position
+static
+relative
+absolute
+fixed
+sticky
+⭐⭐⭐⭐⭐ ۵. Specificity
+اولویت Selectorها
+Cascade
+!important
+⭐⭐⭐⭐⭐ ۶. Display
+block
+inline
+inline-block
+none
+flex
+grid
+⭐⭐⭐⭐⭐ ۷. Units
+px
+rem
+em
+%
+vw
+vh
+vmin
+vmax
+⭐⭐⭐⭐☆ ۸. Responsive Design
+Media Query
+Mobile First
+Breakpoint
+⭐⭐⭐⭐☆ ۹. Stacking Context
+z-index
+چه چیزهایی Stacking Context می‌سازند.
+⭐⭐⭐⭐☆ ۱۰. Overflow
+hidden
+auto
+scroll
+clip
+⭐⭐⭐⭐☆ ۱۱. Pseudo Classes & Elements
+:hover
+:focus
+:focus-visible
+:nth-child
+::before
+::after
+⭐⭐⭐⭐☆ ۱۲. Transition و Animation
+Transition
+Animation
+Keyframes
+⭐⭐⭐⭐☆ ۱۳. CSS Variables
+Custom Properties
+Scope
+Fallback
+⭐⭐⭐☆☆ ۱۴. Selectorها
+Attribute Selector
+Child
+Descendant
+Adjacent
+General Sibling
+⭐⭐⭐☆☆ ۱۵. Performance
+Reflow
+Repaint
+Composite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.what is the basic structure of HTML ?
 2.Diffrence between inline , block elements ?
 3.name some semantic elements
