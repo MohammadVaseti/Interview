@@ -1,7 +1,7 @@
  ۱. Semantic HTML
 تگ‌های معنایی
 section، article، aside، nav، main
-انتخاب تگ مناسب برای هر محت
+انتخاب تگ مناسب برای هر محتوا
 
 ۲. Accessibility (a11y)
 aria-*
@@ -136,49 +136,3 @@ Reflow
 Repaint
 Composite
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.what is the basic structure of HTML ?
-2.Diffrence between inline , block elements ?
-3.name some semantic elements
-4.usage of div and Diffrence with semantic tags
-5.Diffrence between class , id
-6.what are meta tags ?
-7.diffrence between async defer and script
-8.diffrence between local and session storage
-9.specificity in css
-10.box model
-11.units in css
-12.diffrence between rem,em
-13.explain positioning in css
-14.diffrence between grid and flexbox
-15.display:none , visiblity:hidden
