@@ -43,38 +43,43 @@ Metaها
 
 ۸. Lazy Loading
 loading="lazy"
-تصویر و iframe
+iframe
+
 CSS
-⭐⭐⭐⭐⭐ ۱. Box Model
+۱. Box Model
 content-box
 border-box
 margin
 padding
 border
-⭐⭐⭐⭐⭐ ۲. Flexbox
-تمام propertyها
+
+۲. Flexbox
+All properties
 flex-grow
 flex-shrink
 flex-basis
-سناریوهای واقعی
-⭐⭐⭐⭐⭐ ۳. Grid
+
+۳. Grid
 Grid Container
 Grid Item
 fr
 minmax
 auto-fit
 auto-fill
-⭐⭐⭐⭐⭐ ۴. Position
+
+۴. Position
 static
 relative
 absolute
 fixed
 sticky
-⭐⭐⭐⭐⭐ ۵. Specificity
+
+۵. Specificity
 اولویت Selectorها
 Cascade
 !important
-⭐⭐⭐⭐⭐ ۶. Display
+
+۶. Display
 block
 inline
 inline-block
