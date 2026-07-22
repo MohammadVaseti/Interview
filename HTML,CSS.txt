@@ -2,13 +2,15 @@
 تگ‌های معنایی
 section، article، aside، nav، main
 انتخاب تگ مناسب برای هر محت
+
 ۲. Accessibility (a11y)
 aria-*
 label و for
 Keyboard Navigation
 Screen Reader
-تفاوت display: none و visibility: hidden
-⭐⭐⭐⭐⭐ ۳. Form
+display: none و visibility: hidden
+
+ ۳. Form
 انواع input
 Validation
 required
