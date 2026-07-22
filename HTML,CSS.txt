@@ -1,8 +1,8 @@
-⭐⭐⭐⭐⭐ ۱. Semantic HTML
+ ۱. Semantic HTML
 تگ‌های معنایی
-تفاوت section، article، aside، nav، main
-انتخاب تگ مناسب برای هر محتوا
-⭐⭐⭐⭐⭐ ۲. Accessibility (a11y)
+section، article، aside، nav، main
+انتخاب تگ مناسب برای هر محت
+۲. Accessibility (a11y)
 aria-*
 label و for
 Keyboard Navigation
