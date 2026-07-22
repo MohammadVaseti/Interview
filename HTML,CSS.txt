@@ -86,7 +86,8 @@ inline-block
 none
 flex
 grid
-⭐⭐⭐⭐⭐ ۷. Units
+
+۷. Units
 px
 rem
 em
@@ -95,40 +96,42 @@ vw
 vh
 vmin
 vmax
-⭐⭐⭐⭐☆ ۸. Responsive Design
+
+۸. Responsive Design
 Media Query
 Mobile First
 Breakpoint
-⭐⭐⭐⭐☆ ۹. Stacking Context
+
+ ۹. Stacking Context
 z-index
-چه چیزهایی Stacking Context می‌سازند.
-⭐⭐⭐⭐☆ ۱۰. Overflow
+What Makes Stacking Contex ?
+
+۱۰. Overflow
 hidden
 auto
 scroll
 clip
-⭐⭐⭐⭐☆ ۱۱. Pseudo Classes & Elements
+
+۱۱. Pseudo Classes & Elements
 :hover
 :focus
 :focus-visible
 :nth-child
 ::before
 ::after
-⭐⭐⭐⭐☆ ۱۲. Transition و Animation
+
+۱۲. Transition و Animation
 Transition
 Animation
 Keyframes
-⭐⭐⭐⭐☆ ۱۳. CSS Variables
+
+۱۳. CSS Variables
 Custom Properties
 Scope
 Fallback
-⭐⭐⭐☆☆ ۱۴. Selectorها
-Attribute Selector
-Child
-Descendant
-Adjacent
-General Sibling
-⭐⭐⭐☆☆ ۱۵. Performance
+
+
+14. Performance
 Reflow
 Repaint
 Composite
