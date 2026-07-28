@@ -1,10 +1,140 @@
-1. Variables let,var,const
-2. data types
-3. regular function function expression and arrow ?
-4.diffrence between regular and arrow
-5.callback function
-6. high order function
-7.pure function
-8.Scope & Execution Context
-9.call stack
-10.Hoisting
+۱. Scope و Lexical Scope
+Global Scope
+Function Scope
+Block Scope
+Closure
+Shadowing
+⭐⭐⭐⭐⭐ ۲. Execution Context
+Global Execution Context
+Function Execution Context
+Call Stack
+Creation Phase
+Execution Phase
+⭐⭐⭐⭐⭐ ۳. Hoisting
+var
+let
+const
+Function Declaration
+Function Expression
+Temporal Dead Zone (TDZ)
+⭐⭐⭐⭐⭐ ۴. this
+نحوه تعیین مقدار this
+Arrow Function
+call
+apply
+bind
+⭐⭐⭐⭐⭐ ۵. Closure
+مفهوم
+حافظه
+کاربردهای واقعی
+مشکلات رایج
+⭐⭐⭐⭐⭐ ۶. Event Loop
+Call Stack
+Web APIs
+Callback Queue
+Microtask Queue
+Promise Queue
+setTimeout
+⭐⭐⭐⭐⭐ ۷. Promise
+Stateها
+then
+catch
+finally
+Promise.all
+Promise.race
+Promise.any
+Promise.allSettled
+⭐⭐⭐⭐⭐ ۸. Async / Await
+Error Handling
+اجرای ترتیبی
+اجرای موازی
+await داخل Loop
+⭐⭐⭐⭐⭐ ۹. Event Delegation
+Bubbling
+Capturing
+stopPropagation
+preventDefault
+⭐⭐⭐⭐⭐ ۱۰. Prototype و Prototype Chain
+Prototype
+proto
+inheritance
+Object.create
+⭐⭐⭐⭐⭐ ۱۱. Object
+Copy
+Deep Copy
+Shallow Copy
+Freeze
+Seal
+Destructuring
+Spread
+⭐⭐⭐⭐⭐ ۱۲. Array
+map
+filter
+reduce
+some
+every
+find
+flat
+sort
+⭐⭐⭐⭐⭐ ۱۳. Function
+First-class Function
+Higher-order Function
+Callback
+Pure Function
+Currying
+IIFE
+⭐⭐⭐⭐☆ ۱۴. Type Coercion
+Truthy/Falsy
+==
+===
+Implicit Conversion
+⭐⭐⭐⭐☆ ۱۵. Equality
+Object Comparison
+NaN
+Object.is
+⭐⭐⭐⭐☆ ۱۶. Memory Management
+Stack
+Heap
+Garbage Collection
+⭐⭐⭐⭐☆ ۱۷. Modules
+import
+export
+Default Export
+Named Export
+⭐⭐⭐⭐☆ ۱۸. Error Handling
+try/catch
+throw
+Custom Error
+⭐⭐⭐⭐☆ ۱۹. ES6+
+Template Literal
+Optional Chaining
+Nullish Coalescing
+Rest
+Spread
+⭐⭐⭐⭐☆ ۲۰. DOM Manipulation
+Query Selector
+Create Element
+Append
+Remove
+Dataset
+⭐⭐⭐☆☆ ۲۱. Performance
+Debounce
+Throttle
+Lazy Loading
+Memoization
+⭐⭐⭐☆☆ ۲۲. Browser Storage
+Local Storage
+Session Storage
+Cookie
+⭐⭐⭐☆☆ ۲۳. Fetch API
+Request
+Response
+Headers
+AbortController
+⭐⭐⭐☆☆ ۲۴. Map و Set
+WeakMap
+WeakSet
+⭐⭐⭐☆☆ ۲۵. Symbols و Iterators و Generators
+Symbol
+Iterator
+Generator
