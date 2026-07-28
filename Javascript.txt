@@ -4,13 +4,15 @@ Function Scope
 Block Scope
 Closure
 Shadowing
-⭐⭐⭐⭐⭐ ۲. Execution Context
+
+۲. Execution Context
 Global Execution Context
 Function Execution Context
 Call Stack
 Creation Phase
 Execution Phase
-⭐⭐⭐⭐⭐ ۳. Hoisting
+
+۳. Hoisting
 var
 let
 const
