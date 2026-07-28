@@ -87,32 +87,38 @@ every
 find
 flat
 sort
-⭐⭐⭐⭐⭐ ۱۳. Function
+
+۱۳. Function
 First-class Function
 Higher-order Function
 Callback
 Pure Function
 Currying
 IIFE
-⭐⭐⭐⭐☆ ۱۴. Type Coercion
+
+۱۴. Type Coercion
 Truthy/Falsy
 ==
 ===
 Implicit Conversion
-⭐⭐⭐⭐☆ ۱۵. Equality
+
+۱۵. Equality
 Object Comparison
 NaN
 Object.is
-⭐⭐⭐⭐☆ ۱۶. Memory Management
+
+۱۶. Memory Management
 Stack
 Heap
 Garbage Collection
-⭐⭐⭐⭐☆ ۱۷. Modules
+
+۱۷. Modules
 import
 export
 Default Export
 Named Export
-⭐⭐⭐⭐☆ ۱۸. Error Handling
+
+۱۸. Error Handling
 try/catch
 throw
 Custom Error
