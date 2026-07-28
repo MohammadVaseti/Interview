@@ -122,36 +122,43 @@ Named Export
 try/catch
 throw
 Custom Error
-⭐⭐⭐⭐☆ ۱۹. ES6+
+
+۱۹. ES6+
 Template Literal
 Optional Chaining
 Nullish Coalescing
 Rest
 Spread
-⭐⭐⭐⭐☆ ۲۰. DOM Manipulation
+
+۲۰. DOM Manipulation
 Query Selector
 Create Element
 Append
 Remove
 Dataset
-⭐⭐⭐☆☆ ۲۱. Performance
+
+۲۱. Performance
 Debounce
 Throttle
 Lazy Loading
 Memoization
-⭐⭐⭐☆☆ ۲۲. Browser Storage
+
+ ۲۲. Browser Storage
 Local Storage
 Session Storage
 Cookie
-⭐⭐⭐☆☆ ۲۳. Fetch API
+
+۲۳. Fetch API
 Request
 Response
 Headers
 AbortController
-⭐⭐⭐☆☆ ۲۴. Map و Set
+
+۲۴. Map و Set
 WeakMap
 WeakSet
-⭐⭐⭐☆☆ ۲۵. Symbols و Iterators و Generators
+
+۲۵. Symbols و Iterators و Generators
 Symbol
 Iterator
 Generator
