@@ -50,22 +50,26 @@ Promise.all
 Promise.race
 Promise.any
 Promise.allSettled
-⭐⭐⭐⭐⭐ ۸. Async / Await
+
+۸. Async / Await
 Error Handling
 اجرای ترتیبی
 اجرای موازی
 await داخل Loop
-⭐⭐⭐⭐⭐ ۹. Event Delegation
+
+۹. Event Delegation
 Bubbling
 Capturing
 stopPropagation
 preventDefault
-⭐⭐⭐⭐⭐ ۱۰. Prototype و Prototype Chain
+
+۱۰. Prototype و Prototype Chain
 Prototype
 proto
 inheritance
 Object.create
-⭐⭐⭐⭐⭐ ۱۱. Object
+
+۱۱. Object
 Copy
 Deep Copy
 Shallow Copy
@@ -73,7 +77,8 @@ Freeze
 Seal
 Destructuring
 Spread
-⭐⭐⭐⭐⭐ ۱۲. Array
+
+۱۲. Array
 map
 filter
 reduce
