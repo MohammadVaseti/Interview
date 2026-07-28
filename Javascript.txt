@@ -19,25 +19,29 @@ const
 Function Declaration
 Function Expression
 Temporal Dead Zone (TDZ)
-⭐⭐⭐⭐⭐ ۴. this
+
+۴. this
 نحوه تعیین مقدار this
 Arrow Function
 call
 apply
 bind
-⭐⭐⭐⭐⭐ ۵. Closure
+
+۵. Closure
 مفهوم
 حافظه
 کاربردهای واقعی
 مشکلات رایج
-⭐⭐⭐⭐⭐ ۶. Event Loop
+
+۶. Event Loop
 Call Stack
 Web APIs
 Callback Queue
 Microtask Queue
 Promise Queue
 setTimeout
-⭐⭐⭐⭐⭐ ۷. Promise
+
+۷. Promise
 Stateها
 then
 catch
